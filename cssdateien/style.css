@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'bobfont';
+    src: url(../fonts/bobsBurgers.ttf);
+}
+
+
+.ui{
+    border-style:solid;
+    border-color:red;
+    border-width: 5px;
+    width:1895px;
+    height:50px;
+    background-color:yellow;
+}
+.uititel{
+    margin-left:40px;
+    margin-top:-1px;
+    font-size: 48px;
+    color:black;
+    float:left;
+}
+.uicharaktere{
+    height:30px;
+    width:30px;
+    margin-left:1100px;
+    margin-top:10px;
+    float:left;
+}
+.uistaffeln{
+    height:30px;
+    width:50px;
+    margin-left:1300px;
+    margin-top:-30px;
+    float:left;
+}
